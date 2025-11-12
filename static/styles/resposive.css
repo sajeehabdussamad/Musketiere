@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+  .collection-cards {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .header-container {
+    flex-direction: column;
+  }
+  .philosophy-content p {
+    position: static;
+    text-align: center;
+  }
+}
